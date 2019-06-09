@@ -32,6 +32,12 @@ cmd -> npm run test
 ### The backend serve
 Backend data is coming from https://api.themoviedb.org/3/movie/popular
 
+## To view online
+http://norwaydict.com/reactmoviecrab
+  Click on any link in the page 
+  (it will for now mask as norwaydict main site hrefs, but it works as expected)
+  
+
 ```bash
 npm start
 This will run the client at localhost:3000
@@ -82,12 +88,7 @@ This will run the client at localhost:3000
 				You also can adjust width, so in mobile app looks good.
 		    
 	   
-	To view online
-   http://norwaydict.com/reactmoviecrab
-      Click on any link in the page 
-	  (it will for now mask as norwaydict main site hrefs, but it works as expected)
-	  
-	  
+
   Enjoy the app and do call if you have some feedback. 
   Thanks for the task!
   
