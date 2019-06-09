@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`async actions should send FETCH_MOVIES action and get correct snapshot 1`] = `
+Array [
+  Object {
+    "page": 1,
+    "type": "FETCH_MOVIES",
+  },
+]
+`;
