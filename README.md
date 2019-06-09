@@ -2,14 +2,8 @@
 
 This a basic react table workbook
 
-v 1.2
- Added server side prev, next button
- Added small fixes
-
-v 1.1
- Fixed: scss now instead of css
- Added server side pagination
- Added server side sort direction
+v 1.0
+ Base init stable application
 
 
 ##  How to install
