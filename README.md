@@ -18,11 +18,10 @@ v 1.1
 # Install dependencies
 cd reactspeedtable
 npm install
-
+```
 Main plot
  Uses classical redux pattern, with store and reducers.
  Uses axios for backend http client to get backend movies information.
-
  
 ## How to test
 Currently using react-scripts build-in test tool based on jest with test help of enzyme.
