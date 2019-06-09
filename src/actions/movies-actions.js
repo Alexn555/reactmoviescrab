@@ -7,7 +7,7 @@ export function fetchItems(page = 1){
   return dispatch => {
     dispatch({
       type: 'FETCH_MOVIES',
-      payload: client.get('https://api.themoviedb.org/3/movie/popular?api_key='+apiKey+'&language='+locale+'&page='+page)
+      payload: client.get('3/movie/popular?api_key='+apiKey+'&language='+locale+'&page='+page)
     })
   }
 }
