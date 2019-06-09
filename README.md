@@ -1,4 +1,4 @@
-# React Bee work component using redux
+# React Movies watcher using redux
 
 This a basic react table workbook
 
