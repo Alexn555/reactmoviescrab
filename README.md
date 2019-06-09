@@ -10,7 +10,7 @@ v 1.0
 
 ```bash
 # Install dependencies
-cd reactspeedtable
+cd reactmoviecrab
 npm install
 ```
 
